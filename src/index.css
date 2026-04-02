@@ -1,0 +1,16 @@
+body {
+  margin: 0;
+  padding: 0;
+  background: #2c2f34;
+  color: #f2f2f2;
+  font-family: 'Roboto', sans-serif;
+}
+
+button, input {
+  margin: 3px;
+}
+
+.table-matrix td.selected {
+  outline: 2px solid #fff100;
+  box-sizing: border-box;
+}

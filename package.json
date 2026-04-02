@@ -1,0 +1,1 @@
+{"name": "MatrixAnimator", "version": "1.0.0", "private": true, "scripts": {"start": "react-scripts start", "build": "react-scripts build", "test": "react-scripts test", "eject": "react-scripts eject"}, "dependencies": {"react": ">=16.8.0", "react-dom": ">=16.8.0", "react-scripts": "4.0.3"}}
